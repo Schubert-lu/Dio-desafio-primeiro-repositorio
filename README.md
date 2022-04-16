@@ -3,8 +3,8 @@ Bem vindos ao meu repositório criado para os Desafios de Projeto da Dio !
 
 ## Atualmente estou trabalhando com o Projeto: :wrench: 
 
-* *Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso* 
+* *Construindo páginas para internet com Bootstrap*
 
-## Links Úteis :round_pushpin:
+## Desafios Concluídos:
 
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+* *Criando meu primeiro repositório para no GitHub*
