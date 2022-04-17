@@ -1,10 +1,3 @@
-# Desafios de Projeto da DIO 📘
-Bem vindos ao meu repositório criado para os Desafios de Projeto da Dio !
+# Desafio de Projeto da DIO 📘
+Bem vindos ao meu repositório criado para o Desafio de Projeto da Dio de Criar o meu primeiro repositório!
 
-## Atualmente estou trabalhando com o Projeto: :wrench: 
-
-* *Construindo páginas para internet com Bootstrap*
-
-## Desafios Concluídos:
-
-* *Criando meu primeiro repositório para no GitHub*
